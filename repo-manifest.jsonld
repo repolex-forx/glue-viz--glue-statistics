@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/glue-viz/glue-statistics/commit/f0ab7f5a79038143b7519e5908a03acd61122e28",
       "git:hexsha": "f0ab7f5a79038143b7519e5908a03acd61122e28",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T22:27:44.411942+00:00"
     }
   ]
 }
